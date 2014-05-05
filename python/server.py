@@ -1,3 +1,9 @@
+# A simple Python server. No concurrency.
+#
+# Running:
+#
+#   $ python server.py
+#
 import socket
 
 HOST = ''
