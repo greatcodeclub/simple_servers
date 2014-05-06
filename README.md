@@ -1,8 +1,10 @@
 # A collection of simple servers
 
-A collection of simple servers in various languages.
+A collection of simple servers, implemented in various languages.
 
 A demo project of [The Great Code Club](http://www.greatcodeclub.com/).
+
+Also, see [this collection of one line servers](https://gist.github.com/willurd/5720255).
 
 ## Usage
 
